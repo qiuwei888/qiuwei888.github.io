@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_small.png
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # address: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a final year PhD student at the <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a>, where I work on multi-agent reinforcement learning (MARL) and reinforcement learning (RL). My PhD advisors are <a href="https://personal.ntu.edu.sg/boan/">Bo An</a> and <a href="https://dr.ntu.edu.sg/cris/rp/rp00219">Lana Obraztsova</a>. I received my bachelor degree in management and master degree in software engineering at South China University of Technology in China.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my PhD career, I have been broadly interested in reinforcement learning, multi-agent reinforcement learning, human-like AI, human-ai coordination and their applications to real-world problems, such as creating human-like bots in video games. I am also interested in generative AI, foundation models and embodied AI. My research goal is to create a generalist agent that can act in the world and benefit human beings.
