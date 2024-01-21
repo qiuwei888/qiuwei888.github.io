@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD (2023 Dec Expected)
+    - title: PhD
       institution: Nanyang Technological University
       description:
         - Multi-Agent Reinforcement Learning (Multi-Agent Coordination and Communication, Risk and Robust MARL, Asynchronous Actions in MARL, Generalization in MARL)
